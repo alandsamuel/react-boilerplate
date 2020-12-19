@@ -4,13 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Zookeeper
-10.1.76.157:2181
-Zookeeper
-10.1.76.170:2181
-Zookeeper
-10.1.76.171:2181
-
 In the project directory, you can run:
 
 ### `yarn start`
